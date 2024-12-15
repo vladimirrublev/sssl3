@@ -28,34 +28,34 @@
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/99.png)
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/9.jpg)
 
-### 10. Заходим в раздел агентов, чтобы посмотреть все виртуальные машины, которые получилось подключить к серверу в виде агентов.
+### 9. Заходим в раздел агентов, чтобы посмотреть все виртуальные машины, которые получилось подключить к серверу в виде агентов.
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/10.png)
 
-### 11. Произвел атаку с агента на сервер. 
+### 10. Произвел атаку с агента на сервер. 
 Программы HOIC и LOIC. 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/11.png)
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/11%201.png)
 
-### 14 Создание проверки целостности файлов на wazuh server:
+### 11 Создание проверки целостности файлов на wazuh server:
 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/14.jpg)
 
-### 15 Настройка выявления уязвимостей на wazuh server:
+### 12 Настройка выявления уязвимостей на wazuh server:
 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/15.png)
 
-### 16 Настройка выявления скрытых процессов на wazuh agent:
+### 13 Настройка выявления скрытых процессов на wazuh agent:
 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/16.png)
 
-### 17 Настройка выявления SQL-инъекций на wazuh server:
+### 14 Настройка выявления SQL-инъекций на wazuh server:
 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/17.png)
 
-### 18 Настройка выявления web shell attack на wazuh agent:
+### 15 Настройка выявления web shell attack на wazuh agent:
 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/18.png)
 
-### 19 Проверка отображения обнаружения атаки в истории логов на wazuh server:
+### 16 Проверка отображения обнаружения атаки в истории логов на wazuh server:
 
 ![image](https://github.com/vladimirrublev/sssl3/blob/main/screenshot/19.png)
